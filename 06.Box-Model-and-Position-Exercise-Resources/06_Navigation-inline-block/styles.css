@@ -1,0 +1,23 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+header {
+  font-size: 40px;
+  font-weight: bold;
+}
+nav {
+  display: inline-block;
+}
+li {
+  font-size: 20px;
+  display: inline-block;
+  padding-right: 5px;
+}
+a {
+  color: green;
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: 100;
+}
