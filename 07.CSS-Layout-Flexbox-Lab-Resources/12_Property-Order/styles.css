@@ -8,17 +8,17 @@
 
 #box1 {
   background-color: pink;
-  order: 3;
+  order: 2;
 }
 
 #box2 {
   background-color: lightgreen;
-  order: 1;
+  order: 0;
 }
 
 #box3 {
   background-color: lightblue;
-  order: 2;
+  order: 1;
 }
 
 .flex-container > div {
